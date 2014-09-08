@@ -1,4 +1,7 @@
 datascience
 ===========
 
-Data Science
+Data Science course and materials
+
+## Introduction
+### Material
