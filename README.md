@@ -1,7 +1,6 @@
-datascience
+MBA Big Data e Data Science Aplicado ao Setor Público
 ===========
 
-Data Science course and materials
 
-## Introduction
-### Material
+## Aulas
+### Aula 01 - Segmentação de Clientes
