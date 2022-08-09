@@ -6,3 +6,8 @@ Por meio desta disciplina, pretende-se realizar o desenvolvimento de projetos de
 ## Aulas
 #### 26/07 - Aula 01 - Introdução e Análise Exploratória de Dados (EDA)
 #### 28/07 - Aula 02 - Sistema de recomendação de restaurantes
+#### 02/08 - Aula 03 - Segmentação de clientes
+#### 04/08 - Aula 04 - Predição de desistência de funcionários
+#### 09/08 - Aula 05 - Sistema de recomendação de restaurantes
+#### 11/08 - Aula 06 - A definir
+#### 16/08 - Aula 07 - Revisão e Apresentação dos trabalhos
