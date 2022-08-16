@@ -10,4 +10,4 @@ Por meio desta disciplina, pretende-se realizar o desenvolvimento de projetos de
 #### 04/08 - Aula 04 - Predição de desistência de funcionários
 #### 09/08 - Aula 05 - Sistema de recomendação de restaurantes
 #### 11/08 - Aula 06 - Storytelling with Python
-#### 16/08 - Aula 07 - Revisão e Apresentação dos trabalhos
+#### 16/08 - Aula 07 - Pipelines e Apresentação dos trabalhos
